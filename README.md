@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://www.w3.org/html/)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3schools.com/css/)
 
-You can see a few simple projects in my repositories:
+### <b>You can see a few simple projects in my repositories</b>:
 1.	Telegram bot that generates a simple arithmetic problems and check if your answer is right (I’ve used it to help my son to learn basic arithmetic operations). [Arithmetic](https://github.com/MikhailBaldaev/VKinder)
 2.	Telegram bot that parses website of Central Bank and inform you about exchange rate on a specific date, also it can build simple graphs reflecting changes in the rate over the period of time. [CBR](https://github.com/MikhailBaldaev/VKinder)
 3.	Telegram bot that analyses telegram channel provided by the user and returns 10 the most used normalized words in the channel’s posts. [ThemeBot](https://github.com/MikhailBaldaev/VKinder)
