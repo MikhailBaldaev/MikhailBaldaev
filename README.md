@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://www.w3.org/html/)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3schools.com/css/)
 
-#### Contact me:
+#### <b>Contact me</b>:
 [<image alt="Telegram" width="40" hspace="3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644"/>](https://t.me/baldaevm)
 [<image alt="Telegram" width="40" hspace="3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>](mailto:baldaevm@gmail.com)
