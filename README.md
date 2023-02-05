@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm <b>Mikhail</b>, a Python developer.
+I'm <b>Mikhail</b>, a Python developer (Full Stack).
 
 <!--
 **MikhailBaldaev/MikhailBaldaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <b>About me</b>:
 
 - ⚡ Constantly <b>learn</b> something new.
-- ⚡ Now I learn <b>Python, Django, Pandas</b>.
+- ⚡ Learning <b>Python, Django, Pandas</b>.
 - ⚡ Love to create <b>something out of nothing</b>.
 
 ### <b>Languages and Tools</b>:
@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://www.w3.org/html/)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3schools.com/css/)
 
-#### <b>Contact me</b>:
+You can see a few simple projects in my repositories:
+1.	Telegram bot that generates a simple arithmetical problems and check if your answer is right (I’ve used it to help my son to learn basic arithmetic operations). [Arithmetic](https://github.com/MikhailBaldaev/VKinder)
+2.	Telegram bot that parses website of Central Bank and inform you about exchange rate on a specific date, also it can build simple graphs reflecting changes in the rate over the period of time. [CBR](https://github.com/MikhailBaldaev/VKinder)
+3.	Telegram bot that analyses telegram channel provided by the user and returns 10 the most used normalized words in the channel’s posts. [ThemeBot](https://github.com/MikhailBaldaev/VKinder)
+4.	VKinder – bot for vkontakte that search for people and sent their photos in messages. Application allows you to mark photos/contacts as favourite. [VKinder](https://github.com/MikhailBaldaev/VKinder)
+
+### <b>You can contact me</b>:
 [<image alt="Telegram" width="40" hspace="3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644"/>](https://t.me/baldaevm)
 [<image alt="Telegram" width="40" hspace="3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>](mailto:baldaevm@gmail.com)
