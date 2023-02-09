@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ### <b>You can see a few simple projects in my repositories</b>:
-1.	Telegram bot that generates a simple arithmetic problems and check if your answer is right (I’ve used it to help my son to train in basic arithmetic operations). [Arithmetic](https://github.com/MikhailBaldaev/VKinder)
+1.	Telegram bot that generates a simple arithmetic problems and check if your answer is right (I’ve used it to help my son to train in basic arithmetic operations). [Arithmetic](https://github.com/MikhailBaldaev/TelegramBot---Arithmetic-Problems)
 2.	Telegram bot that parses website of Central Bank and inform you about exchange rate on a specific date, also it can build simple graphs reflecting changes in the rate over the period of time. [CBR-ExchangeRate](https://github.com/MikhailBaldaev/TelegramBot---Exchange-Rate)
 3.	Telegram bot that analyses telegram channel provided by the user and returns 10 the most used normalized words in the channel’s posts. [ThemeBot](https://github.com/MikhailBaldaev/VKinder)
 4.	VKinder – bot for vkontakte that search for people and sent their photos in messages. Application allows you to mark photos/contacts as favourite. [VKinder](https://github.com/MikhailBaldaev/VKinder)
